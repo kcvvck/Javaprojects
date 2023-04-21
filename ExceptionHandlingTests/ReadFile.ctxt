@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ReadFile
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=f
+comment2.target=void\ readFile(java.io.File)
+comment3.params=myObj
+comment3.target=void\ fileInfo(java.io.File)
+comment4.params=myObj
+comment4.target=void\ deleteFile(java.io.File)
+numComments=5
